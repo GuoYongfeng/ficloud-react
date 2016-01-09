@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/GuoYongfeng/ficloud-react/issues"
   },
-  "homepage": "https://github.com/GuoYongfeng/ficloud-react#readme"
+  "homepage": "https://github.com/GuoYongfeng/ficloud-react#readme",
+  "dependencies": {
+    "babel": "^6.3.26",
+    "babel-core": "^6.4.0",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
+    "react-redux": "^4.0.6",
+    "redux": "^3.0.5",
+    "webpack": "^1.12.10"
+  }
 }
