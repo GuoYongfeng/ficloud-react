@@ -1,5 +1,5 @@
 {
-  "name": "ficloud-fe",
+  "name": "ficloud-react",
   "version": "1.0.0",
   "description": "demo for ficloud app",
   "main": "index.js",
@@ -7,5 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "GupYongfeng",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuoYongfeng/ficloud-react.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack"
+  ],
+  "bugs": {
+    "url": "https://github.com/GuoYongfeng/ficloud-react/issues"
+  },
+  "homepage": "https://github.com/GuoYongfeng/ficloud-react#readme"
 }
